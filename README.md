@@ -15,7 +15,7 @@ Technology: Python, Pandas, Numpy, Seaborn, Matplotliby.
 The project also use Hypothesis testing to Compare travel patterns between genders or age groups: Test for differences in the proportion of cancelled flights between countries using chi-squares test
 
 
-## Project-Customer
+## Project-Customer https://github.com/Manh404/Project-Customer.git
 
 ## Project Background Project-2.ipynb
 
