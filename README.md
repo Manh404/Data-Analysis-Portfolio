@@ -2,7 +2,8 @@
 In this section I will use data analytics projects briefly describing the technology stack used to solve cases.
 ## PROJECT 1 ( Airline)
 
-[([PROJECT-AIRLINE]())](https://github.com/Manh404/Project-Airline)
+[([[PROJECT-AIRLINE](https://github.com/Manh404/Project-Airline)]())]
+
 
 Goal: to conduct a comprehensive statistical analysis of the dataset to gaininsights into passenger demographics, travel patterns, and peak travel times.
 
@@ -17,7 +18,7 @@ The project also use Hypothesis testing to Compare travel patterns between gende
 
 ## Project-Customer 
 
-[([Project-Customer]())](https://github.com/Manh404/Project-Customer)
+[([(https://github.com/Manh404/Project-Customer)]())]
 
 
 ## Project Background Project-2.ipynb
