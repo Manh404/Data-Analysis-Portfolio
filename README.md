@@ -2,7 +2,7 @@
 In this section I will use data analytics projects briefly describing the technology stack used to solve cases.
 ## PROJECT 1 ( Airline)
 
-([PROJECT-AIRLINE]())
+([PROJECT-AIRLINE]()
 
 Goal: to conduct a comprehensive statistical analysis of the dataset to gaininsights into passenger demographics, travel patterns, and peak travel times.
 
@@ -17,6 +17,7 @@ The project also use Hypothesis testing to Compare travel patterns between gende
 
 ## Project-Customer 
 
+([Project-Customer]()
 
 
 ## Project Background Project-2.ipynb
