@@ -18,7 +18,7 @@ The project also use Hypothesis testing to Compare travel patterns between gende
 
 ## Project-Customer 
 
-[([(https://github.com/Manh404/Project-Customer)]())]
+([[ProjectCustomer](https://github.com/Manh404/Project-Customer)])
 
 
 ## Project Background Project-2.ipynb
