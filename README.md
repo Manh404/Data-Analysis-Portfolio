@@ -17,7 +17,7 @@ The project also use Hypothesis testing to Compare travel patterns between gende
 
 ## Project-Customer
 
-## Project Background https://github.com/Manh404/Project-Customer/blob/main/Project.ipynb
+## Project Background Project-2.ipynb
 
 This project involves end-to-end data analysis on a real-world dataset including customer profiles, ticket purchase history, device usage, campaign details, and status logs. The data is cleaned, merged, and visualized to uncover patterns in ticket purchases, customer demographics, and campaign performance. The notebook generates actionable insights into which customer segments respond to promotions and how behavior varies over time.
 
