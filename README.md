@@ -21,12 +21,11 @@ data cleaning, data analysis, correlation matrices, hypothesis testing, data vis
 The project also use Hypothesis testing to Compare travel patterns between genders or age groups: Test for differences in the proportion of cancelled flights between countries using chi-squares test
 
 
-## Project-Customer 
+## Project Customer Movie behavior
 
 [ProjectCustomer](https://github.com/Manh404/Project-Customer)
 
 
-## Project Background
 
 This project involves end-to-end data analysis on a real-world dataset including customer profiles, ticket purchase history, device usage, campaign details, and status logs. The data is cleaned, merged, and visualized to uncover patterns in ticket purchases, customer demographics, and campaign performance. The notebook generates actionable insights into which customer segments respond to promotions and how behavior varies over time.
 
